@@ -1,9 +1,7 @@
 # DZScrollView
 昨天整理之前的东西时，发现自己之前封装了一个轮播图，当然比较简单，也比较low。但是使用起来还是比较方便，并且易修改（注释就差每一个控件干嘛用的解释一遍了）。话不多说，看效果：
 
-这里写图片描述
-
-http://img.blog.csdn.net/20170327200947490?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvR1pYaW9z/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast
+![image](http://img.blog.csdn.net/20170327200947490?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvR1pYaW9z/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 实现方法很简单，下面给大家写下实现代码：
 
